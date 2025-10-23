@@ -1,0 +1,13 @@
+.box { width: 140px; height: 60px; display:grid; place-items:center; margin:10px 0; }
+
+.one {
+  border: 4px ridge burlywood;
+}
+
+.two {
+  border: 5px dotted aquamarine;
+}
+
+.three {
+  border: 25px groove dimgray;
+}

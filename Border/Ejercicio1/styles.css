@@ -1,0 +1,4 @@
+.card { width: 140px; height: 70px; display:grid; place-items:center; margin:12px 0; background:#f9fafb; }
+.a {border-width: 50px; border-color: blueviolet; border-style: ridge;}
+.b {border-width: 100px; border-color: aquamarine; border-style: dashed;}
+.c {border-width: 20px; border-color: bisque; border-style: outset;}
